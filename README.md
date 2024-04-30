@@ -48,6 +48,9 @@ so here is my research using 2023 data:
 
 my final choice would be: ride a classic bike for round trip at South Waterfront Walkway station in spring or fall months, and avoid commute hours.
 
+tableau public workbook link: https://public.tableau.com/app/profile/leo.chen3760/viz/ttt_17144853586000/MyBikingPlan?publish=yes
+
+
 
 
 
